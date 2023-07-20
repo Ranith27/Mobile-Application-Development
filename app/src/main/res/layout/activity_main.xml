@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#F1F1F1">
+
+    <EditText
+        android:id="@+id/medicineNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Medicine Name"
+        android:textSize="18sp"
+        android:background="@drawable/edittext_rounded_background"
+        android:padding="12dp"
+        android:textColor="#333333"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/timeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/medicineNameEditText"
+        android:hint="Enter Time (HH:MM)"
+        android:textSize="18sp"
+        android:background="@drawable/edittext_rounded_background"
+        android:padding="12dp"
+        android:textColor="#333333"
+        android:layout_marginBottom="16dp" />
+
+    <RadioGroup
+        android:id="@+id/reminderOptionsRadioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/timeEditText">
+
+        <RadioButton
+            android:id="@+id/everyDayRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Every Day"
+            android:textColor="#333333" />
+
+        <RadioButton
+            android:id="@+id/sundayRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sunday"
+            android:textColor="#333333" />
+
+        <RadioButton
+            android:id="@+id/mondayRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Monday"
+            android:textColor="#333333" />
+
+        <RadioButton
+            android:id="@+id/tuesdayRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tuesday"
+            android:textColor="#333333" />
+
+        <RadioButton
+            android:id="@+id/wednesdayRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wednesday"
+            android:textColor="#333333" />
+
+        <RadioButton
+            android:id="@+id/thursdayRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thursday"
+            android:textColor="#333333" />
+
+        <RadioButton
+            android:id="@+id/fridayRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Friday"
+            android:textColor="#333333" />
+
+        <RadioButton
+            android:id="@+id/saturdayRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Saturday"
+            android:textColor="#333333" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/setReminderButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reminderOptionsRadioGroup"
+        android:background="@drawable/button_rounded_background"
+        android:text="Set Reminder"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#0F77D3"
+        android:textColorLink="#FFFFFF" />
+
+</RelativeLayout>

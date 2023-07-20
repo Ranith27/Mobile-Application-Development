@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Your App Name</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="time">Time</string>
+    <string name="every_day">Every Day</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="invalid_time_format">Invalid time format</string>
+    <string name="invalid_reminder_option">Invalid reminder option</string>
+    <string name="reminder_set_for">Reminder set for</string>
+    <string name="notification_title">Medicine Reminder</string>
+    <string name="notification_text">Time to take %1$s</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">Channel Description</string>
+    <string name="medicine_name_placeholder">Medicine Name</string>
+    <string name="time_placeholder">Time</string>
+</resources>

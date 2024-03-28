@@ -1,4 +1,4 @@
-# Pill Reminder App - Mobile App Development Mini Project (VTU - VIth semester)
+# Pill Reminder App - Mobile App Development Mini Project
 
 Java and Firebase unite in the creation of the 'Pill Reminder' app, revolutionizing dietary management for users.
 

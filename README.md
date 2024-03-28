@@ -34,7 +34,6 @@ HARDWARE REQUIREMENTS <br>
 
 ### :four: Output
 <p align=center>
-<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/04261509-f6c8-4219-9d4b-68463445817e" width =200 >
-<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/00ba4d1d-00d2-4547-96c3-9208ee69f26c" width =200 height=322>
-<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/6fa179d2-5769-409a-9e90-fa631160abad" width =200 height=322>
-<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/1348867e-4f4e-408a-b522-7bc5da868afb" width =200 height=322>
+<img src = "https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/bbd8d24c-0a17-4636-b021-e9f7e858292a" width =200 height=230>
+<img src = "https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/1e68f963-9215-4951-a7b4-bab8f8fd5dad" width =200 height=230>
+<img src = "https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/341b5d0e-5787-4cc6-9efc-a5281888dfd9" width =200 height=230>

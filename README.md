@@ -1,9 +1,9 @@
+# Pill Reminder App - Mobile App Development Mini Project (VTU - VIth semester)
+
+Java and Firebase unite in the creation of the 'Pill Reminder' app, revolutionizing dietary management for users.
+
 ### :one: Introduction
-Mobile application development on Pill Reminder 
-Tool used is android studio 
-It is the project based on pill reminder app where the reminder will be poped when the timer hits the clock 
-Java language is used to implement the project 
-also adding the diet feature to the app so that diet can be maintained during the health issues
+Mobile application development on Pill Reminder Tool used is android studio. It is a project based on pill reminder app where the reminder will be poped when the timer hits the clock. Java is used to implement the project also adding the diet feature to the app so that diet can be maintained during the health issues.
 
 ### :two: Prerequisites
 HARDWARE REQUIREMENTS <br>
@@ -34,6 +34,7 @@ HARDWARE REQUIREMENTS <br>
 
 ### :four: Output
 <p align=center>
-<img src = "https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/bbd8d24c-0a17-4636-b021-e9f7e858292a" width =200 height=230>
-<img src = "https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/1e68f963-9215-4951-a7b4-bab8f8fd5dad" width =200 height=230>
-<img src = "https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/341b5d0e-5787-4cc6-9efc-a5281888dfd9" width =200 height=230>
+<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/f4a90e65-c8cf-498d-9af7-b54c0a269524" width =200>
+<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/1348867e-4f4e-408a-b522-7bc5da868afb" width =200 height =355>
+<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/6fa179d2-5769-409a-9e90-fa631160abad" width =200>
+<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/00ba4d1d-00d2-4547-96c3-9208ee69f26c" width =200 height =355>
